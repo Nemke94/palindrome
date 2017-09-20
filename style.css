@@ -1,0 +1,55 @@
+* {
+	font-family: 'Lobster', cursive;
+}
+
+body {
+	background-color: #f6cd6a;
+}
+
+h1 {
+	text-align: center;
+	font-size: 60px;
+}
+
+#val {
+	width: 50%;
+    height: 47px;
+    display: block;
+    margin: 0 auto;
+    padding: 0 1%;
+    font-size: 38px;
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+}
+
+#results {
+	font-size: 40px;
+	text-align: center;
+}
+
+#sub {
+	display: block;
+	margin: 1% auto;
+	height: 50px;
+	font-size: 38px;
+	background-color: #a3fb60;
+	border: none;
+	border-radius: 8px;
+	outline: none;
+}
+
+.palindrom {
+	font-size: 25px;
+	padding: 0 3%;
+}
+
+.language {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+}
